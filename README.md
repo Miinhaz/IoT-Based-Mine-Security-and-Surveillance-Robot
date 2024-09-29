@@ -35,7 +35,9 @@ The entire system can be remotely monitored and controlled through the **Blynk a
 ### 🛠️ Full Project Documentation
 For detailed information about the project's design, coding, and outputs, check out the complete [Project Documentation](https://github.com/Miinhaz/IoT-Based-Mine-Security-and-Surveillance-Robot/blob/main/ETE_3200_Project.pdf).
 
+### 📸 Visuals
 
+![Robot Design](froont.jpg)
 
 #### 📬 Contact
 For any questions or feedback, feel free to reach out through the project's GitHub Issues page.
